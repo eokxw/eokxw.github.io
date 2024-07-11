@@ -9,7 +9,7 @@ do
 		echo "SUDDEN!!!"
 	else
 		clear
-		date "+%Y-%M-%d"
+		date "+%Y-%m-%d"
 	fi
 	sleep 3
 done
