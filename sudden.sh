@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 FILE=~/tmp/_SUDDEN
 
 while true
@@ -9,6 +10,7 @@ do
 	   echo "SUDDEN!!!"
 	else
 	    clear
+	figlet seoyoung
 	    date '+%Y-%m-%d'
 	fi
 	sleep 3
